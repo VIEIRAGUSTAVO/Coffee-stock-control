@@ -13,7 +13,7 @@ During the process of building this system, I learned new things and encountered
 before, I gained a lot of new knowledge and it was a really cool process, I intend to continue this project and
 learn much more with the new implementations!
 
-## Tecnologias utilizadas
+Tecnologias utilizadas
 
 HTML5, CSS e JAVASCRIPT.
 
